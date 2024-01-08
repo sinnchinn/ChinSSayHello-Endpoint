@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DfxqwUpAEYrxJzu0G1Cpb4Ad7WIA/oT1Kc2p4zyi/Yw=",
+  "Source": "ChinSSayHello-Endpoint",
+  "BasePath": "_content/ChinSSayHello-Endpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
